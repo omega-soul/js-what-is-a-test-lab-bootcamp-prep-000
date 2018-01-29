@@ -4,3 +4,6 @@ var height = 80
 var message = "and will be the best programmer at school"
 var Display = `${name} is ${height} inches tall. ${message}`
 module.exports = {name, height, Display, message}
+
+
+console.log(Display)
